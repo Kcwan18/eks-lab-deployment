@@ -1,0 +1,13 @@
+/bin/
+/node_modules/
+
+testingSubnetTool.ts
+testing/
+.env
+Pulumi.infra.yaml
+Pulumi.yaml
+*.conf
+
+result.json
+stack.json
+
